@@ -5,7 +5,8 @@ This C program simulates an air traffic monitoring system, managing arrival, dep
 
 ## Getting Started
 
-To compile and run the program, use a C compiler such as GCC:
+To compile and run the program, use a C compiler such as GCC.
+gcc -o air_traffic_simulation air_traffic_simulation.c
 
 
 
@@ -19,4 +20,4 @@ To compile and run the program, use a C compiler such as GCC:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Support
-For any questions, issues, or suggestions, please [open an issue](https://github.com/dhruvpsr/delivery-route-optimization/issues).
+For any questions, issues, or suggestions, please [open an issue](https://github.com/viggu3sd).
