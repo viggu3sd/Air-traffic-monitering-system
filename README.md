@@ -5,7 +5,8 @@ This C program simulates an air traffic monitoring system, managing arrival, dep
 
 ## Getting Started
 
-To compile and run the program, use a C compiler such as GCC.
+To compile and run the program, use a C compiler such as GCC:
+
 gcc -o air_traffic_simulation air_traffic_simulation.c
 
 
