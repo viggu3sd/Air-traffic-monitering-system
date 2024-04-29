@@ -11,7 +11,7 @@ To compile and run the program, use a C compiler such as GCC:
 
 ## Contributors
 - [Thiruvidhula Sai Vignesh](https://github.com/viggu3sd)
-- [shagun](https://github.com/shxgunx)
+- [shagun Suryavanshi](https://github.com/shxgunx)
 - [sowmya siri didla](https://github.com/Sowmyasirididla)
 - [Kashvi pandya](https://github.com/kashhvii)
 
